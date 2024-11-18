@@ -10,5 +10,5 @@ Constants like is_alpha, is_digits, and to_lower were incredibly useful for task
 
 
 Expected Output
+<img src='https://imgur.com/a/1k6cW7d.png'title='Output' width='' alt='Output'/>
 
-https://imgur.com/a/1k6cW7d
