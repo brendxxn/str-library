@@ -7,5 +7,8 @@ Constants like is_alpha, is_digits, and to_lower were incredibly useful for task
  Likewise, if I needed to know if a character was a digit, is_digits gave me a predefined string of all digits from '0' to '9'. These constants saved me from having to manually define those character sets each time.
 
 
+
+
 Expected Output
+
 https://imgur.com/a/1k6cW7d
