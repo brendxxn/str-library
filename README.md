@@ -6,6 +6,9 @@ Constants like is_alpha, is_digits, and to_lower were incredibly useful for task
 
  Likewise, if I needed to know if a character was a digit, is_digits gave me a predefined string of all digits from '0' to '9'. These constants saved me from having to manually define those character sets each time.
 
+Creating my own string library was an eye-opening experience that taught me a great deal about both string manipulation and the underlying principles of programming.From memory management to performance optimization, edge case handling, and algorithm design, I gained valuable skills in low-level programming concepts that I often take for granted when using high-level language functions.
+
+Methods Used - is_alpha, is_digit, for loop, if statement, return, print function, to_upper, to_lower
 
 
 
